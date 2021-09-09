@@ -11,7 +11,7 @@
 
   {
 
-	    int i, j:
+	    int i, j;
   	i = j = 0;
 	    while (*(dest + i))
 
